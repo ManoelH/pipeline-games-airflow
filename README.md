@@ -15,18 +15,22 @@ Após abrir pesquise por pd.read_csv e games_2019.csv, após achar certifique-se
 da pasta dag em seu computador, caso esteja diferente altere.
 
 # 4
+Mova o arquivo insert_elastic.py para uma pasta a parte, pois ele se trata de um arquivo python "puro" e não uma dag do airflow, sugiro 
+para que não apareça mensagem de erro no airflow relacionada a este arquivo, mensagem que neste caso deve ser ignorada.
+
+# 5
 Execute seu airflow e atualize a listagem das dags, após isso irá aparecer uma dag chamada "dag", caso não apareça 
 faça a busca pelos termos: dag ou data.
 
-# 5 
+# 6 
 Execute a dag e aguarde o finalizamento, após finalizar na sua pasta dag será gerado um csv chamado: most_rated_games_2019.csv
 
-# 6
+# 7
 Abra o arquivo e fique a vontade para analisar os dados. Também há um outro arquivo csv chamado 'duplicated.csv', 
 basicamente ele possui os dados desta pipeline sem o tratamento de dados duplicados, abra-o e compare com o arquivo 
 most_rated_games_2019.csv caso ache necessário.
 
-# 7 
+# 8 
 Caso ache conveniente gravar os dados no elasticSearch execute o arquivo insert_elastic.py via terminal desta forma:
 python3 insert_elastic.py e em seguida usando o postman ou ferramenta semelhante execute o seguinte endpoint: 
 http://localhost:9200/ela/_search . OBs.: certifique-se de que seu elastic está na mesma porta da url e de que o serviço 
