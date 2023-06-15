@@ -5,8 +5,7 @@ Neste pipelene posso observar dados como: 1 - A avaliação dos games com mais c
 PARA TESTAR A PIPELINE EXECUTE OS SEGUINTES PASSOS:
 
 # 1
-Mova a pasta do projeto para sua pasta do airfow instalado em seu pc, ou caso já possua uma pasta 'dag' mova 
-todos os arquivos deste projeto para lá
+Mova todos os arquivos deste projeto para a pasta dag usada em seu airflow
 
 # 2
 Usando o vsCode ou editor de texto desejado abra o arquivo csv_dag.py
