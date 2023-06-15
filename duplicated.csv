@@ -1,0 +1,94 @@
+,score,game,genre,developer,year
+0,9.2,Final Fantasy XIV: Shadowbringers,['RPG'],['Square Enix'],2019
+1,9.2,Disco Elysium,"['Adventure', 'RPG', 'Turn Based Strategy']",['ZA/UM'],2019
+2,9.2,Outer Wilds,"['Adventure', 'Indie', 'Puzzle', 'Simulator']","['Mobius Digital', 'Annapurna Interactive']",2019
+3,9.2,Disco Elysium,"['Adventure', 'RPG', 'Turn Based Strategy']",['ZA/UM'],2019
+4,9.2,Outer Wilds,"['Adventure', 'Indie', 'Puzzle', 'Simulator']","['Mobius Digital', 'Annapurna Interactive']",2019
+5,9.2,Outer Wilds,"['Adventure', 'Indie', 'Puzzle', 'Simulator']","['Mobius Digital', 'Annapurna Interactive']",2019
+6,9.2,Disco Elysium,"['Adventure', 'RPG', 'Turn Based Strategy']",['ZA/UM'],2019
+7,9.0,Shovel Knight,Platform,Yacht Club Games,2019
+8,9.0,Celeste: Farewell,['Platform'],['Extremely OK Games'],2019
+9,8.8,13 Sentinels: Aegis Rim,"['Adventure', 'Simulator', 'Strategy', 'Tactical']","['Vanillaware', 'Atlus USA']",2019
+10,8.8,Sekiro: Shadows Die Twice,"['Adventure', 'Brawler']","['FromSoftware', 'Activision']",2019
+11,8.8,Persona 5 Royal,"['Adventure', 'RPG', 'Turn Based Strategy']","['Atlus USA', 'Atlus']",2019
+12,8.8,Sekiro: Shadows Die Twice,"['Adventure', 'Brawler']","['FromSoftware', 'Activision']",2019
+13,8.8,Persona 5 Royal,"['Adventure', 'RPG', 'Turn Based Strategy']","['Atlus USA', 'Atlus']",2019
+14,8.8,Nier: Automata - Game of the Yorha Edition,"['Adventure', 'RPG']","['Square Enix', 'PlatinumGames']",2019
+15,8.8,Persona 5 Royal,"['Adventure', 'RPG', 'Turn Based Strategy']","['Atlus USA', 'Atlus']",2019
+16,8.8,Sekiro: Shadows Die Twice,"['Adventure', 'Brawler']","['FromSoftware', 'Activision']",2019
+17,8.6,Hades,"['Adventure', 'Brawler', 'Indie', 'RPG']",['Supergiant Games'],2019
+18,8.6,Devil May Cry 5,"['Adventure', 'Brawler']","['Capcom', 'Capcom Development Division 1']",2019
+19,8.6,Shovel Knight: Treasure Trove,"['Adventure', 'Indie', 'Platform']","['Yacht Club Games', 'Nintendo']",2019
+20,8.6,Devil May Cry 5,"['Adventure', 'Brawler']","['Capcom', 'Capcom Development Division 1']",2019
+21,8.6,Resident Evil 2,"['Adventure', 'Shooter']","['Capcom', 'Capcom Development Division 1']",2019
+22,8.6,Resident Evil 2,"['Adventure', 'Shooter']","['Capcom', 'Capcom Development Division 1']",2019
+23,8.6,Devil May Cry 5,"['Adventure', 'Brawler']","['Capcom', 'Capcom Development Division 1']",2019
+24,8.6,Hades,"['Adventure', 'Brawler', 'Indie', 'RPG']",['Supergiant Games'],2019
+25,8.6,Hades,"['Adventure', 'Brawler', 'Indie', 'RPG']",['Supergiant Games'],2019
+26,8.6,Resident Evil 2,"['Adventure', 'Shooter']","['Capcom', 'Capcom Development Division 1']",2019
+27,8.6,Pathologic 2,"['Adventure', 'Indie', 'RPG']","['Ice-Pick Lodge', 'tinyBuild']",2019
+28,8.5,Metro Exodus,Shooter,4a-games,2019
+29,8.4,Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition,"['Adventure', 'RPG']",['Square Enix'],2019
+30,8.4,Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition,"['Adventure', 'RPG']",['Square Enix'],2019
+31,8.2,Katana Zero,"['Adventure', 'Arcade', 'Indie', 'Platform', 'Strategy']","['Askiisoft', 'Devolver Digital']",2019
+32,8.2,A Short Hike,"['Adventure', 'Indie', 'Platform']","['adamgryu', 'Whippoorwill']",2019
+33,8.2,Yakuza 5 Remastered,['Adventure'],"['Ryū Ga Gotoku Studios', 'Sega']",2019
+34,8.2,Katana Zero,"['Adventure', 'Arcade', 'Indie', 'Platform', 'Strategy']","['Askiisoft', 'Devolver Digital']",2019
+35,8.2,Bug Fables: The Everlasting Sapling,"['Adventure', 'Indie', 'RPG', 'Turn Based Strategy']","['DANGEN Entertainment', 'Moonsprout Games']",2019
+36,8.2,Katana Zero,"['Adventure', 'Arcade', 'Indie', 'Platform', 'Strategy']","['Askiisoft', 'Devolver Digital']",2019
+37,8.0,Baba is You,"['Indie', 'Puzzle', 'Strategy']",['hempuli'],2019
+38,8.0,Travis Strikes Again: No More Heroes,Action,Grasshopper Manufacture,2019
+39,8.0,Assassin's Creed III Remastered,Action-Adventure,Ubisoft,2019
+40,8.0,Fire Emblem: Three Houses,"['Adventure', 'RPG', 'Strategy', 'Tactical', 'Turn Based Strategy']","['Intelligent Systems Co., Ltd.', 'Nintendo']",2019
+41,8.0,Baba is You,"['Indie', 'Puzzle', 'Strategy']",['hempuli'],2019
+42,7.8,The Legend of Zelda: Link's Awakening,['Adventure'],"['Nintendo', 'Grezzo']",2019
+43,7.8,Death Stranding,"['Adventure', 'RPG', 'Shooter']","['Sony Interactive Entertainment', 'Kojima Productions']",2019
+44,7.8,Yoshi's Crafted World,Platform,Good-Feel,2019
+45,7.8,The Legend of Zelda: Link's Awakening,['Adventure'],"['Nintendo', 'Grezzo']",2019
+46,7.8,Picross S3,"['Puzzle', 'Strategy']","['Jupiter Corp.', 'Jupiter Corporation']",2019
+47,7.8,Sayonara Wild Hearts,"['Adventure', 'Arcade', 'Indie', 'Music']","['Simogo', 'Annapurna Interactive']",2019
+48,7.8,Crash Team Racing Nitro-Fueled,"['Arcade', 'Racing']","['Activision Blizzard', 'Beenox']",2019
+49,7.8,The Legend of Zelda: Link's Awakening,['Adventure'],"['Nintendo', 'Grezzo']",2019
+50,7.6,Catherine: Full Body,"['Adventure', 'Platform', 'Puzzle', 'Simulator', 'Strategy']","['Atlus', 'Studio Zero']",2019
+51,7.6,Luigi's Mansion 3,['Adventure'],"['Nintendo', 'Next Level Games']",2019
+52,7.6,Luigi's Mansion 3,['Adventure'],"['Nintendo', 'Next Level Games']",2019
+53,7.4,A Plague Tale: Innocence,"['Adventure', 'RPG']","['Focus Entertainment', 'Asobo Studio']",2019
+54,7.4,Blasphemous,"['Adventure', 'Brawler', 'Indie', 'Platform', 'RPG']","['The Game Kitchen', 'Team17']",2019
+55,7.4,Yakuza 4 Remastered,"['Adventure', 'Brawler']","['SEGA of Japan', 'Ryū Ga Gotoku Studios']",2019
+56,7.4,Blasphemous,"['Adventure', 'Brawler', 'Indie', 'Platform', 'RPG']","['The Game Kitchen', 'Team17']",2019
+57,7.4,A Plague Tale: Innocence,"['Adventure', 'RPG']","['Focus Entertainment', 'Asobo Studio']",2019
+58,7.4,Super Mario Maker 2,['Platform'],"['Nintendo EPD', 'Nintendo']",2019
+59,7.4,A Plague Tale: Innocence,"['Adventure', 'RPG']","['Focus Entertainment', 'Asobo Studio']",2019
+60,7.4,Super Mario Maker 2,['Platform'],"['Nintendo EPD', 'Nintendo']",2019
+61,7.4,Star Wars Jedi: Fallen Order,['Adventure'],"['Respawn Entertainment', 'Electronic Arts']",2019
+62,7.2,Control,"['Adventure', 'Shooter']","['505 Games', 'Remedy Entertainment']",2019
+63,7.2,River City Girls,"['Adventure', 'Arcade', 'Brawler', 'Fighting']","['WayForward Technologies', 'WayForward']",2019
+64,7.2,Superliminal,"['Adventure', 'Indie', 'Puzzle', 'Shooter']",['Pillow Castle Games'],2019
+65,7.2,Untitled Goose Game,"['Adventure', 'Indie', 'Puzzle', 'Simulator']","['House House', 'Panic']",2019
+66,7.2,Astral Chain,"['Adventure', 'Brawler']","['PlatinumGames', 'Nintendo']",2019
+67,7.2,Control,"['Adventure', 'Shooter']","['505 Games', 'Remedy Entertainment']",2019
+68,7.2,Astral Chain,"['Adventure', 'Brawler']","['PlatinumGames', 'Nintendo']",2019
+69,7.2,Superliminal,"['Adventure', 'Indie', 'Puzzle', 'Shooter']",['Pillow Castle Games'],2019
+70,7.2,Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda,"['Adventure', 'Music']","['Spike ChunSoft', 'Brace Yourself Games']",2019
+71,7.0,Kingdom Hearts III,"['Adventure', 'Brawler', 'RPG']","['Square Enix', 'Disney Interactive Studios']",2019
+72,7.0,Ape Out,"['Adventure', 'Arcade', 'Fighting', 'Indie']","['Gabe Cuzzillo', 'Devolver Digital']",2019
+73,7.0,Fitness Boxing,Music,Imagineer,2019
+74,6.8,Children of Morta,"['Adventure', 'Indie', 'RPG']","['Dead Mage', '11 bit studios']",2019
+75,6.8,Mortal Kombat 11,['Fighting'],"['Warner Bros. Interactive Entertainment', 'NetherRealm Studios']",2019
+76,6.8,Gears 5,"['Adventure', 'Shooter']","['The Coalition', 'Xbox Game Studios']",2019
+77,6.8,Call of Duty: Modern Warfare,['Shooter'],"['Infinity Ward', 'Activision']",2019
+78,6.4,Remnant: From the Ashes,"['Adventure', 'RPG', 'Shooter']","['Gunfire Games', 'Perfect World Entertainment']",2019
+79,6.4,The Outer Worlds,"['Adventure', 'RPG', 'Shooter']","['Obsidian Entertainment', 'Private Division']",2019
+80,6.4,Days Gone,"['Adventure', 'Shooter']","['SIE Bend Studio', 'Sony Interactive Entertainment']",2019
+81,6.4,Borderlands 3,"['RPG', 'Shooter']","['2K Games', 'Gearbox Software']",2019
+82,6.4,LEGO Builder's Journey,"['Adventure', 'Indie', 'Puzzle']","['Light Brick Studio', 'The LEGO Group']",2019
+83,6.2,Indivisible,"['Adventure', 'Indie', 'Platform', 'RPG']","['Lab Zero Games', '505 Games']",2019
+84,6.2,Need for Speed: Heat,"['Adventure', 'Racing', 'Sport']","['Electronic Arts', 'Ghost Games']",2019
+85,6.2,Apex Legends,['Shooter'],"['Respawn Entertainment', 'Electronic Arts']",2019
+86,6.0,Code Vein,"['Adventure', 'RPG']","['Shift', 'Bandai Namco Entertainment']",2019
+87,5.8,Pokémon Sword,"['Adventure', 'RPG']","['Game Freak', 'Nintendo']",2019
+88,5.8,Pokémon Shield,"['Adventure', 'RPG', 'Turn Based Strategy']","['The Pokémon Company', 'Game Freak']",2019
+89,5.8,Pokémon Sword,"['Adventure', 'RPG']","['Game Freak', 'Nintendo']",2019
+90,5.8,Team Sonic Racing,"['Arcade', 'Racing']","['Sumo Digital', 'Sega']",2019
+91,5.6,Telling Lies,"['Indie', 'Point-and-Click', 'Simulator']","['Furious Bee Limited', 'Annapurna Interactive']",2019
+92,5.0,The Dark Pictures Anthology: Man of Medan,['Adventure'],"['Bandai Namco Entertainment', 'Supermassive Games']",2019
