@@ -1,5 +1,6 @@
 # pipeline-games-airflow
 Um projeto da pós graduação onde analiso dois datasets de jogos e retorno os 64 jogos mais bem avaliados de 2019
+Neste pipelene posso observar dados como: 1 - A avaliação dos games com mais credibilidade, 2 - O gênero desses games onde é possível ver quais os gêneros com mais chance de vender bem, 3 - ver quais games fizeram mais sucesso, entre outros, como tirar uma média da avaliação dos jogos por exemplo.
 
 PARA TESTAR A PIPELINE EXECUTE OS SEGUINTES PASSOS:
 
